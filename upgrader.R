@@ -11,3 +11,6 @@ updateR() # updating R.
 # Running "updateR()" will detect if there is a new R version available, 
 # and if so it will download+install it (etc.). just press "next", "OK", 
 # and "Yes" on everything.
+
+# https://www.r-statistics.com/2015/06/a-step-by-step-screenshots-tutorial-for-upgrading-r-on-windows/
+
