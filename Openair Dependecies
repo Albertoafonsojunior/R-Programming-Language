@@ -1,0 +1,13 @@
+# openair é muito dependente dos seguintes pacotes:
+# antes da instalação do pacote devtools, instalar pelo terminal,
+
+sudo apt-get install build-essential libcurl4-gnutls-dev libxml2-dev libssl-dev
+
+install.packages('devtools');
+install.packages('shiny');
+install.packages('dplyr');
+install.packages('httr');
+install.packages('swirl')
+install.packages('lubridate');
+install.packages('mapproj');
+install.packages('openair')
